@@ -30,10 +30,10 @@ The **full MCP Database Connector** includes:
 - Row limits and query timeouts
 - Insert and update tools with safety checks
 
-**[Get the full version →](https://whop.com/tirantech)**
+**[Get the full version →](https://whop.com/checkout/plan_32FGKXhYcUV3p)**
 
 ## Part of the MCP Starter Arsenal
 
 4 production-ready MCP servers: Database, API Bridge, RAG, and Web Scraper.
 
-**[Get the full arsenal →](https://whop.com/tirantech)**
+**[Get the full arsenal →](https://whop.com/checkout/plan_rdUWYjU5aDoA0)**
